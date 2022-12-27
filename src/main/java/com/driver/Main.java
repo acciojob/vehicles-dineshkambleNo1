@@ -7,6 +7,6 @@ public class Main {
         mercedes.accelerate(20);
         mercedes.accelerate(-60);
 
-        System.out.println("dfhudhf");
+        //System.out.println("dfhudhf");
     }
 }
